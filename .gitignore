@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+rank.txt
+V_mat.csv
+PopularBookRecommendation.pkl
+.venv/
+.idea/
