@@ -20,10 +20,7 @@ yazılmıştır.
 └── README.md
 ```
 
-> Not: Önceki sürümde bulunan `main.py`, `nmf1.py`, `nmf2.py` ve
-> `yazar_nmf*.py` dosyaları — birbirinin neredeyse birebir kopyası
-> olduğu için — `nmf.py` ve `recommend.py` altında birleştirilip
-> temizlenmiştir.
+
 
 ## Kurulum
 
